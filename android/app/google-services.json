@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964231406201",
+    "project_id": "messxchangenew",
+    "storage_bucket": "messxchangenew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964231406201:android:833835ecf07dac70b66aa8",
+        "android_client_info": {
+          "package_name": "com.example.messxchangenew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAay1QH7AmTxo-8PWkk2HCS0z3wKRzY4kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
